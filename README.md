@@ -1,2 +1,2 @@
 # CVTRCH-detectnet
-Detectnet SSD300 metVGG16 basenet via Torch en OpenCV voor .pth modellen als toetsing voor TRT detectnet na ONNX conversie.
+Object detection using SSD300w VGG16 basenet via Torch & OpenCV for .pth models
